@@ -9,6 +9,7 @@ ciclo_deposito = 0
 ciclo_saque = 0
 lista_deposito = []
 lista_saque = []
+
 def limpar_terminal():
     # Se estiver no Windows
     if os.name == 'nt':
